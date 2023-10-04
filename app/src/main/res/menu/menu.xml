@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item1"
+        android:title="Opção 1"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:title="Opção 2"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item3"
+        android:title="Opção 3"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_item4"
+        android:title="Opção 4"
+        app:showAsAction="never"/>
+</menu>

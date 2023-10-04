@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobilBimestre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="btneditar">Editar</string>
+    <string name="btnexcluir">Excluir</string>
+    <string name="btnentrar">Entrar</string>
+    <string name="btncadastrar">Cadastrar</string>
+    <string name="btncomecar">Começar</string>
+</resources>
