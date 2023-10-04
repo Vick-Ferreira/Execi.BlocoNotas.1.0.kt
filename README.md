@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Aplicativo de Gerenciamento de Tarefas - Desenvolvido em Kotlin
 
 Este é um exemplo de um aplicativo de gerenciamento de tarefas desenvolvido em Kotlin para Android. O aplicativo demonstra boas práticas de programação e oferece uma experiência de usuário funcional e agradável.
