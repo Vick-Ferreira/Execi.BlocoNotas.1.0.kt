@@ -44,6 +44,3 @@ Todos os textos do aplicativo, bem como as cores do tema, estão armazenados de 
 Projeto foi desenvolvido como trabalho bimestral da faculdade.Fortalecendo técnicas aprendidas.
 
 
-=======
-# Projeto_Tarefas.kt
->>>>>>> 23057bb410c6ec3405863be1b51719943380d3c5
