@@ -42,5 +42,6 @@ Todos os textos do aplicativo, bem como as cores do tema, estão armazenados de 
 
 
 Projeto foi desenvolvido como trabalho bimestral da faculdade.Fortalecendo técnicas aprendidas.
+Link de video demostrativo de projeto : https://drive.google.com/file/d/1IfeCHTij0wkUIpx-fwbhb4zFuqGiuxuw/view?usp=drive_link
 
 
