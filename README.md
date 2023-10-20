@@ -3,6 +3,9 @@
 
 Este é um exemplo de um aplicativo de gerenciamento de tarefas desenvolvido em Kotlin para Android. O aplicativo demonstra boas práticas de programação e oferece uma experiência de usuário funcional e agradável.
 
+Projeto foi desenvolvido como trabalho bimestral da faculdade.Fortalecendo técnicas aprendidas.
+Link de video demostrativo de projeto : https://drive.google.com/file/d/1IfeCHTij0wkUIpx-fwbhb4zFuqGiuxuw/view?usp=drive_link
+
 ## Visão Geral
 
 O aplicativo foi construído com as seguintes características:
@@ -38,10 +41,7 @@ O aplicativo inclui as seguintes funcionalidades principais:
 
 Todos os textos do aplicativo, bem como as cores do tema, estão armazenados de forma organizada e gerenciável no arquivo `strings.xml`.
 
-## Futuras Implementações
 
 
-Projeto foi desenvolvido como trabalho bimestral da faculdade.Fortalecendo técnicas aprendidas.
-Link de video demostrativo de projeto : https://drive.google.com/file/d/1IfeCHTij0wkUIpx-fwbhb4zFuqGiuxuw/view?usp=drive_link
 
 
